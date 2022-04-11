@@ -1,6 +1,6 @@
 # 🔖 To Do List
 
-A application created by <a target="_blank" href="https://www.rocketseat.com.br">Rocketseat</a> for you to use in your routine and daily basis to create, check and delete tasks. 
+An application created by <a target="_blank" href="https://www.rocketseat.com.br">Rocketseat</a> for you use in your routine and daily basis. In this application I add create, check and delete tasks functionalities. 
 
 # 🔧 Tecnologies
 - [React JS](https://reactjs.org)
