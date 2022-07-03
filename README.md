@@ -12,7 +12,7 @@ An application created by <a target="_blank" href="https://www.rocketseat.com.br
 
 Clone the project and access the project folder:
 ```bash
-$ git clone 
+$ git clone <repository of the project>
 $ cd to-do-list
 ```
 To execute the To Do List Project locally follow the steps below:
